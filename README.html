@@ -1,0 +1,415 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>DSA & Competitive Programming</title>
+  <link href="https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@300;400;500;600&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet"/>
+  <style>
+    :root {
+      --bg: #1a1a1a;
+      --surface: #282828;
+      --surface2: #333333;
+      --text: #eff1f6;
+      --muted: #737373;
+      --muted2: #ababab;
+      --accent: #ffa116;
+      --accent-soft: rgba(255, 161, 22, 0.1);
+      --accent-border: rgba(255, 161, 22, 0.3);
+      --border: #3a3a3a;
+      --code-bg: #1e1e1e;
+      --green: #00b8a3;
+      --blue: #60a5fa;
+    }
+
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: 'Inter', sans-serif;
+      font-weight: 400;
+      line-height: 1.75;
+      min-height: 100vh;
+    }
+
+    /* top nav bar like leetcode */
+    .topbar {
+      background: var(--surface);
+      border-bottom: 1px solid var(--border);
+      padding: 0 32px;
+      height: 44px;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      position: sticky;
+      top: 0;
+      z-index: 10;
+    }
+
+    .topbar-logo {
+      font-family: 'Source Code Pro', monospace;
+      font-weight: 600;
+      font-size: 18px;
+      color: var(--accent);
+      letter-spacing: -0.5px;
+    }
+
+    .topbar-logo span { color: var(--muted2); font-weight: 300; }
+
+    .topbar-tag {
+      font-size: 11px;
+      background: var(--accent-soft);
+      color: var(--accent);
+      border: 1px solid var(--accent-border);
+      border-radius: 4px;
+      padding: 2px 8px;
+      font-family: 'Source Code Pro', monospace;
+    }
+
+    .page {
+      max-width: 720px;
+      margin: 0 auto;
+      padding: 48px 32px 100px;
+    }
+
+    /* header */
+    .header {
+      margin-bottom: 48px;
+      opacity: 0;
+      animation: fadeUp 0.6s ease forwards;
+      padding-bottom: 32px;
+      border-bottom: 1px solid var(--border);
+    }
+
+    .eyebrow {
+      font-family: 'Source Code Pro', monospace;
+      font-size: 11px;
+      font-weight: 400;
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+      color: var(--accent);
+      margin-bottom: 12px;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .eyebrow::before {
+      content: '';
+      display: inline-block;
+      width: 6px; height: 6px;
+      background: var(--accent);
+      border-radius: 50%;
+    }
+
+    h1 {
+      font-family: 'Inter', sans-serif;
+      font-size: clamp(26px, 5vw, 38px);
+      font-weight: 600;
+      line-height: 1.2;
+      color: var(--text);
+      margin-bottom: 14px;
+    }
+
+    h1 .highlight { color: var(--accent); }
+
+    .tagline {
+      font-size: 14px;
+      color: var(--muted2);
+      max-width: 480px;
+      line-height: 1.8;
+    }
+
+    /* sections */
+    .section {
+      margin-bottom: 40px;
+      opacity: 0;
+      animation: fadeUp 0.6s ease forwards;
+    }
+
+    .section:nth-child(2) { animation-delay: 0.08s; }
+    .section:nth-child(3) { animation-delay: 0.16s; }
+    .section:nth-child(4) { animation-delay: 0.24s; }
+    .section:nth-child(5) { animation-delay: 0.32s; }
+    .section:nth-child(6) { animation-delay: 0.40s; }
+
+    .section-label {
+      font-size: 11px;
+      font-weight: 500;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: var(--muted);
+      margin-bottom: 14px;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+
+    .section-label::after {
+      content: '';
+      flex: 1;
+      height: 1px;
+      background: var(--border);
+    }
+
+    .section p {
+      font-size: 14px;
+      color: var(--muted2);
+      line-height: 1.85;
+    }
+
+    /* profiles */
+    .profiles {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 10px;
+    }
+
+    .profile-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 16px 20px;
+      transition: border-color 0.2s, background 0.2s;
+      cursor: pointer;
+    }
+
+    .profile-card:hover {
+      border-color: var(--accent);
+      background: var(--surface2);
+    }
+
+    .profile-platform {
+      font-size: 11px;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: var(--muted);
+      margin-bottom: 6px;
+      font-weight: 500;
+    }
+
+    .profile-handle {
+      font-family: 'Source Code Pro', monospace;
+      font-size: 16px;
+      color: var(--text);
+      font-weight: 500;
+    }
+
+    .profile-handle .at { color: var(--accent); }
+
+    /* difficulty dots for flair */
+    .profile-dot {
+      display: inline-block;
+      width: 7px; height: 7px;
+      border-radius: 50%;
+      margin-right: 6px;
+      vertical-align: middle;
+    }
+
+    .dot-lc { background: var(--accent); }
+    .dot-cf { background: var(--blue); }
+
+    /* code block */
+    pre {
+      background: var(--code-bg);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 22px 24px;
+      font-family: 'Source Code Pro', monospace;
+      font-size: 12.5px;
+      font-weight: 400;
+      line-height: 2;
+      color: #d4d4d4;
+      overflow-x: auto;
+      white-space: pre;
+    }
+
+    /* subtle line numbers effect */
+    pre { position: relative; }
+
+    .tree-comment { color: #6a9955; }
+    .tree-path { color: #9cdcfe; }
+    .tree-file { color: #d4d4d4; }
+
+    /* descriptions under tree */
+    .tree-desc {
+      margin-top: 14px;
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+    }
+
+    .tree-desc p {
+      font-size: 13px;
+      color: var(--muted2);
+    }
+
+    .tree-desc code {
+      font-family: 'Source Code Pro', monospace;
+      font-size: 12px;
+      background: var(--surface2);
+      color: #9cdcfe;
+      padding: 1px 6px;
+      border-radius: 4px;
+    }
+
+    /* badge */
+    .badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      background: var(--accent-soft);
+      border: 1px solid var(--accent-border);
+      border-radius: 6px;
+      padding: 8px 16px;
+      font-family: 'Source Code Pro', monospace;
+      font-size: 13px;
+      color: var(--accent);
+    }
+
+    .badge-dot {
+      width: 8px; height: 8px;
+      background: var(--accent);
+      border-radius: 50%;
+      box-shadow: 0 0 6px var(--accent);
+    }
+
+    /* notes */
+    .notes-list {
+      list-style: none;
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+    }
+
+    .notes-list li {
+      font-size: 14px;
+      color: var(--muted2);
+      padding-left: 22px;
+      position: relative;
+      line-height: 1.7;
+    }
+
+    .notes-list li::before {
+      content: '›';
+      position: absolute;
+      left: 0;
+      color: var(--accent);
+      font-size: 16px;
+      line-height: 1.6;
+      font-weight: 600;
+    }
+
+    /* footer */
+    .footer {
+      margin-top: 60px;
+      padding-top: 24px;
+      border-top: 1px solid var(--border);
+      font-family: 'Source Code Pro', monospace;
+      font-size: 11px;
+      color: var(--muted);
+      letter-spacing: 0.06em;
+      opacity: 0;
+      animation: fadeUp 0.6s ease 0.5s forwards;
+      display: flex;
+      align-items: center;
+      gap: 16px;
+    }
+
+    .footer-accent { color: var(--accent); }
+
+    @keyframes fadeUp {
+      from { opacity: 0; transform: translateY(12px); }
+      to   { opacity: 1; transform: translateY(0); }
+    }
+  </style>
+</head>
+<body>
+  <!-- LeetCode-style topbar -->
+  <div class="topbar">
+    <div class="topbar-logo">{ <span>dsa</span> }</div>
+    <div class="topbar-tag">readme</div>
+  </div>
+
+  <div class="page">
+
+    <!-- Header -->
+    <div class="header">
+      <div class="eyebrow">repository</div>
+      <h1>DSA &amp; <span class="highlight">Competitive</span> Programming</h1>
+      <p class="tagline">Problem solving is a discipline. This repository is where I practice it.</p>
+    </div>
+
+    <!-- About -->
+    <div class="section">
+      <div class="section-label">about</div>
+      <p>I'm a competitive programmer who enjoys breaking down complex problems and engineering efficient solutions. My primary language is C++ — chosen for its speed, control, and widespread use in competitive programming. This repository tracks my progress across platforms, serves as a structured reference, and reflects a consistent problem-solving practice.</p>
+    </div>
+
+    <!-- Profiles -->
+    <div class="section">
+      <div class="section-label">profiles</div>
+      <div class="profiles">
+        <div class="profile-card">
+          <div class="profile-platform"><span class="profile-dot dot-lc"></span>LeetCode</div>
+          <div class="profile-handle"><span class="at">@</span>NoyBoy_06</div>
+        </div>
+        <div class="profile-card">
+          <div class="profile-platform"><span class="profile-dot dot-cf"></span>Codeforces</div>
+          <div class="profile-handle"><span class="at">@</span>YSShaadoh_06</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Structure -->
+    <div class="section">
+      <div class="section-label">repository structure</div>
+      <pre><span class="tree-path">DSA-and-Competitive-Programming/</span>
+│
+├── <span class="tree-path">CF Solutions/</span>                         <span class="tree-comment">← codeforces solutions</span>
+│   ├── <span class="tree-file">Problem Name.cpp</span>
+│   └── <span class="tree-file">...</span>
+│
+├── <span class="tree-path">[Question Number]. [Question Name]/</span>   <span class="tree-comment">← leetcode folder</span>
+│   ├── <span class="tree-file">README.md</span>                         <span class="tree-comment">← question description</span>
+│   └── <span class="tree-file">solution.cpp</span>                      <span class="tree-comment">← submitted solution</span>
+│
+└── <span class="tree-file">README.md</span>                             <span class="tree-comment">← this file</span></pre>
+      <div class="tree-desc">
+        <p><code>CF Solutions/</code> — root-level folder with all Codeforces .cpp files</p>
+        <p><code>[No.]. [Name]/</code> — one folder per LeetCode problem with description &amp; solution</p>
+      </div>
+    </div>
+
+    <!-- Language -->
+    <div class="section">
+      <div class="section-label">language</div>
+      <div class="badge">
+        <span class="badge-dot"></span>
+        C++ — standard STL &amp; competitive programming conventions
+      </div>
+    </div>
+
+    <!-- Notes -->
+    <div class="section">
+      <div class="section-label">notes</div>
+      <ul class="notes-list">
+        <li>Problems are primarily sourced from LeetCode and Codeforces</li>
+        <li>Solutions are written with clarity and efficiency in mind</li>
+        <li>This repository is continuously updated as I solve more problems</li>
+      </ul>
+    </div>
+
+    <!-- Footer -->
+    <div class="footer">
+      <span class="footer-accent">✓</span> continuously updated
+      <span style="color:var(--border)">|</span>
+      written in c++
+      <span style="color:var(--border)">|</span>
+      <span class="footer-accent">{ }</span>
+    </div>
+
+  </div>
+</body>
+</html>
