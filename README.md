@@ -87,8 +87,6 @@ DSA-and-Competitive-Programming/
 
 &ensp;› Problems are primarily sourced from **LeetCode** and **Codeforces**
 
-&ensp;› Solutions are written with **clarity** and **efficiency** in mind
-
 &ensp;› This repository is **continuously updated** as I solve more problems
 
 ---
