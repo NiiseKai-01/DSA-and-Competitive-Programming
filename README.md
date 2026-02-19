@@ -52,13 +52,13 @@ I'm a competitive programmer who enjoys breaking down complex problems and engin
 ```
 DSA-and-Competitive-Programming/
 │
+├── [Question Number]. [Question Name]/   ← leetcode question folder
+│   ├── solution.cpp                      ← submitted solution
+│   └── README.md                         ← question description
+│
 ├── CF Solutions/                         ← codeforces solutions
 │   ├── Problem Name.cpp
 │   └── ...
-│
-├── [Question Number]. [Question Name]/   ← leetcode folder
-│   ├── README.md                         ← question description
-│   └── solution.cpp                      ← submitted solution
 │
 └── README.md                             ← this file
 ```
