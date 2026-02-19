@@ -96,3 +96,15 @@ DSA-and-Competitive-Programming/
 ![footer](https://img.shields.io/badge/✓_continuously_updated-written_in_c%2B%2B-FFA116?style=flat-square&labelColor=1a1a1a)
 
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/1920-build-array-from-permutation) |
+## Simulation
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/1920-build-array-from-permutation) |
+<!---LeetCode Topics End-->
