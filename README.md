@@ -102,6 +102,7 @@ DSA-and-Competitive-Programming/
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/0011-container-with-most-water) |
 | [0347-top-k-frequent-elements](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/0347-top-k-frequent-elements) |
 | [1920-build-array-from-permutation](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/1920-build-array-from-permutation) |
@@ -112,6 +113,7 @@ DSA-and-Competitive-Programming/
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/0001-two-sum) |
 | [0347-top-k-frequent-elements](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
 |  |
