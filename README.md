@@ -106,10 +106,12 @@ DSA-and-Competitive-Programming/
 | [0011-container-with-most-water](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/0011-container-with-most-water) |
 | [0217-contains-duplicate](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/0347-top-k-frequent-elements) |
+| [0735-asteroid-collision](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/0735-asteroid-collision) |
 | [1920-build-array-from-permutation](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/1920-build-array-from-permutation) |
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/0735-asteroid-collision) |
 | [1920-build-array-from-permutation](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/1920-build-array-from-permutation) |
 ## Hash Table
 |  |
@@ -150,4 +152,8 @@ DSA-and-Competitive-Programming/
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/0011-container-with-most-water) |
+## Stack
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
