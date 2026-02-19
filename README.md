@@ -102,9 +102,38 @@ DSA-and-Competitive-Programming/
 ## Array
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/0347-top-k-frequent-elements) |
 | [1920-build-array-from-permutation](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/1920-build-array-from-permutation) |
 ## Simulation
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/1920-build-array-from-permutation) |
+## Hash Table
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/0347-top-k-frequent-elements) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/0347-top-k-frequent-elements) |
+## Sorting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
