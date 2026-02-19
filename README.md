@@ -18,7 +18,8 @@
 <a href="#profiles"><kbd> <br> Profiles <br> </kbd></a>&ensp;
 <a href="#structure"><kbd> <br> Structure <br> </kbd></a>&ensp;
 <a href="#language"><kbd> <br> Language <br> </kbd></a>&ensp;
-<a href="#notes"><kbd> <br> Notes <br> </kbd></a>
+<a href="#notes"><kbd> <br> Notes <br> </kbd></a>&ensp;
+<a href="#ed"><kbd> <br> Leetcode Topics <br> </kbd></a>
 
 </div>
 
@@ -28,7 +29,27 @@
 
 <h2 id="about">// ABOUT</h2>
 
-I'm a competitive programmer who enjoys breaking down complex problems and engineering efficient solutions. My primary language is **C++** — chosen for its speed, control, and widespread use in competitive programming. This repository tracks my progress across platforms, serves as a structured reference, and reflects a consistent problem-solving practice.
+This repository is my DSA journey log.
+
+At first, it was just a place to store solutions.  
+Then I made a mistake — I lost a huge chunk of my Codeforces solutions from my PC.  
+No backup. No recovery. Just gone.
+
+That was the moment I decided:
+never again.
+
+This repo now exists for two reasons:
+
+• To track my growth as a competitive programmer  
+• To make sure my work never disappears into the digital abyss again  
+
+Every folder represents a problem solved.
+Every commit represents consistency.
+Every solution represents time invested in thinking better.
+
+Primary language: **C++**
+Because in competitive programming — speed, control, and STL matter.
+
 
 ---
 
@@ -85,13 +106,19 @@ DSA-and-Competitive-Programming/
 
 <h2 id="notes">// NOTES</h2>
 
-&ensp;› Problems are primarily sourced from **LeetCode** and **Codeforces**
+&ensp;› Problems are sourced from **LeetCode** and **Codeforces**
 
-&ensp;› This repository is **continuously updated** as I solve more problems
+&ensp;› Codeforces solutions are stored here intentionally  
+&ensp;&ensp;&ensp;(lost once — not losing them again)
+
+&ensp;› This repository is continuously updated as I solve more problems
+
+&ensp;› This is not just storage — this is documented growth
+
 
 ---
 
-<div align="center">
+<div align="center" id="ed">
 
 ![footer](https://img.shields.io/badge/✓_continuously_updated-written_in_c%2B%2B-FFA116?style=flat-square&labelColor=1a1a1a)
 
