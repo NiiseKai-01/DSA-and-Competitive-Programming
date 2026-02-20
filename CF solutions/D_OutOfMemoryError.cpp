@@ -17,12 +17,23 @@ void solve(){
             cin >> y >> z;
             b[y-1]+=z;
         }
-        for(int i=0;i<n;i++){
-            if(b[i]>h){b[i]=a[i];}
+        int k=-1;
+        for(int i=n-1;i>=0;i--){
+            if(b[i]>h){
+                k=i;
+                break;
+            }
         }
-        for(auto x:b){
-            cout << x << " ";
+        if(k!=-1){
+            for(int i=0;i<=k;i++){
+                cout << a[i] << " ";
+            }
+            for(int i=k+1;i<n;i++){cout << b[i]<< " ";}
         }
+        else{
+            for(auto x:b){cout << x << " ";}
+        }
+
         cout << "\n";        
     }
 }
