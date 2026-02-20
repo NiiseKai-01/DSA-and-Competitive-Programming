@@ -135,6 +135,7 @@ DSA-and-Competitive-Programming/
 | [0347-top-k-frequent-elements](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/0485-max-consecutive-ones) |
+| [0506-relative-ranks](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/0506-relative-ranks) |
 | [0735-asteroid-collision](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/0735-asteroid-collision) |
 | [1920-build-array-from-permutation](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/1920-build-array-from-permutation) |
 ## Simulation
@@ -158,10 +159,12 @@ DSA-and-Competitive-Programming/
 | ------- |
 | [0217-contains-duplicate](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/0347-top-k-frequent-elements) |
+| [0506-relative-ranks](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/0506-relative-ranks) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/0347-top-k-frequent-elements) |
+| [0506-relative-ranks](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/0506-relative-ranks) |
 ## Bucket Sort
 |  |
 | ------- |
