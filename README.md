@@ -133,6 +133,7 @@ DSA-and-Competitive-Programming/
 | [0011-container-with-most-water](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/0011-container-with-most-water) |
 | [0217-contains-duplicate](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/0347-top-k-frequent-elements) |
+| [0485-max-consecutive-ones](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/0485-max-consecutive-ones) |
 | [0735-asteroid-collision](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/0735-asteroid-collision) |
 | [1920-build-array-from-permutation](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/1920-build-array-from-permutation) |
 ## Simulation
