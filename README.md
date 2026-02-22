@@ -137,6 +137,7 @@ DSA-and-Competitive-Programming/
 | [0485-max-consecutive-ones](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/0485-max-consecutive-ones) |
 | [0506-relative-ranks](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/0506-relative-ranks) |
 | [0605-can-place-flowers](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/0605-can-place-flowers) |
+| [0628-maximum-product-of-three-numbers](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/0628-maximum-product-of-three-numbers) |
 | [0735-asteroid-collision](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/0735-asteroid-collision) |
 | [1920-build-array-from-permutation](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/1920-build-array-from-permutation) |
 ## Simulation
@@ -161,6 +162,7 @@ DSA-and-Competitive-Programming/
 | [0217-contains-duplicate](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/0506-relative-ranks) |
+| [0628-maximum-product-of-three-numbers](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/0628-maximum-product-of-three-numbers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -191,4 +193,8 @@ DSA-and-Competitive-Programming/
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/0735-asteroid-collision) |
+## Math
+|  |
+| ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/0628-maximum-product-of-three-numbers) |
 <!---LeetCode Topics End-->
