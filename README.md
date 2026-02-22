@@ -136,6 +136,7 @@ DSA-and-Competitive-Programming/
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/0485-max-consecutive-ones) |
 | [0506-relative-ranks](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/0506-relative-ranks) |
+| [0605-can-place-flowers](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/0605-can-place-flowers) |
 | [0735-asteroid-collision](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/0735-asteroid-collision) |
 | [1920-build-array-from-permutation](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/1920-build-array-from-permutation) |
 ## Simulation
@@ -185,6 +186,7 @@ DSA-and-Competitive-Programming/
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/0011-container-with-most-water) |
+| [0605-can-place-flowers](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/0605-can-place-flowers) |
 ## Stack
 |  |
 | ------- |
