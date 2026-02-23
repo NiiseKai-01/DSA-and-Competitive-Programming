@@ -197,11 +197,13 @@ DSA-and-Competitive-Programming/
 ## Math
 |  |
 | ------- |
+| [0171-excel-sheet-column-number](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/0171-excel-sheet-column-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/0628-maximum-product-of-three-numbers) |
 ## String
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0171-excel-sheet-column-number](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/0171-excel-sheet-column-number) |
 ## String Matching
 |  |
 | ------- |
