@@ -185,6 +185,7 @@ DSA-and-Competitive-Programming/
 | ------- |
 | [0011-container-with-most-water](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/0345-reverse-vowels-of-a-string) |
 ## Greedy
 |  |
 | ------- |
@@ -204,6 +205,7 @@ DSA-and-Competitive-Programming/
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/0171-excel-sheet-column-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/0345-reverse-vowels-of-a-string) |
 ## String Matching
 |  |
 | ------- |
