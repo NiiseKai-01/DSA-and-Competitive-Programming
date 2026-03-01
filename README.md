@@ -199,6 +199,7 @@ DSA-and-Competitive-Programming/
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/0009-palindrome-number) |
 | [0171-excel-sheet-column-number](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/0231-power-of-two) |
 | [0628-maximum-product-of-three-numbers](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/0628-maximum-product-of-three-numbers) |
