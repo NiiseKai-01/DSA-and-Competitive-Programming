@@ -141,6 +141,7 @@ DSA-and-Competitive-Programming/
 | [0628-maximum-product-of-three-numbers](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/0628-maximum-product-of-three-numbers) |
 | [0735-asteroid-collision](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/0735-asteroid-collision) |
 | [1920-build-array-from-permutation](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/1920-build-array-from-permutation) |
+| [3467-transform-array-by-parity](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/3467-transform-array-by-parity) |
 ## Simulation
 |  |
 | ------- |
@@ -166,6 +167,7 @@ DSA-and-Competitive-Programming/
 | [0347-top-k-frequent-elements](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/0628-maximum-product-of-three-numbers) |
+| [3467-transform-array-by-parity](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/3467-transform-array-by-parity) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -179,6 +181,7 @@ DSA-and-Competitive-Programming/
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/0347-top-k-frequent-elements) |
+| [3467-transform-array-by-parity](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/3467-transform-array-by-parity) |
 ## Quickselect
 |  |
 | ------- |
