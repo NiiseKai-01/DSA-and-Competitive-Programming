@@ -132,6 +132,7 @@ DSA-and-Competitive-Programming/
 | [0001-two-sum](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/0014-longest-common-prefix) |
+| [0169-majority-element](https://github.com/NiiseKai-01/DSA-and-Competitive-Programming/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -153,16 +154,19 @@ DSA-and-Competitive-Programming/
 | [0001-two-sum](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0169-majority-element](https://github.com/NiiseKai-01/DSA-and-Competitive-Programming/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/NiiseKai-01/DSA-and-Competitive-Programming/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/NiiseKai-01/DSA-and-Competitive-Programming/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/0506-relative-ranks) |
@@ -180,6 +184,7 @@ DSA-and-Competitive-Programming/
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/NiiseKai-01/DSA-and-Competitive-Programming/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/0347-top-k-frequent-elements) |
 | [3467-transform-array-by-parity](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/3467-transform-array-by-parity) |
 ## Quickselect
