@@ -135,6 +135,7 @@ DSA-and-Competitive-Programming/
 | [0169-majority-element](https://github.com/NiiseKai-01/DSA-and-Competitive-Programming/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/NiiseKai-01/DSA-and-Competitive-Programming/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/0485-max-consecutive-ones) |
 | [0506-relative-ranks](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/0506-relative-ranks) |
@@ -157,6 +158,7 @@ DSA-and-Competitive-Programming/
 | [0169-majority-element](https://github.com/NiiseKai-01/DSA-and-Competitive-Programming/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/NiiseKai-01/DSA-and-Competitive-Programming/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Divide and Conquer
 |  |
@@ -169,6 +171,7 @@ DSA-and-Competitive-Programming/
 | [0169-majority-element](https://github.com/NiiseKai-01/DSA-and-Competitive-Programming/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/NiiseKai-01/DSA-and-Competitive-Programming/tree/master/0349-intersection-of-two-arrays) |
 | [0506-relative-ranks](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/0628-maximum-product-of-three-numbers) |
 | [3467-transform-array-by-parity](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/3467-transform-array-by-parity) |
@@ -197,6 +200,7 @@ DSA-and-Competitive-Programming/
 | [0011-container-with-most-water](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/NiiseKai-01/DSA-and-Competitive-Programming/tree/master/0349-intersection-of-two-arrays) |
 ## Greedy
 |  |
 | ------- |
@@ -243,4 +247,8 @@ DSA-and-Competitive-Programming/
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/NiiseKai-01/DSA-and-Competitive-Programming/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
