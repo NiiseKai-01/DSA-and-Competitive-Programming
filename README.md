@@ -134,6 +134,7 @@ DSA-and-Competitive-Programming/
 | [0014-longest-common-prefix](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/0014-longest-common-prefix) |
 | [0169-majority-element](https://github.com/NiiseKai-01/DSA-and-Competitive-Programming/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/NiiseKai-01/DSA-and-Competitive-Programming/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/NiiseKai-01/DSA-and-Competitive-Programming/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -199,6 +200,7 @@ DSA-and-Competitive-Programming/
 | ------- |
 | [0011-container-with-most-water](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0283-move-zeroes](https://github.com/NiiseKai-01/DSA-and-Competitive-Programming/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/NiiseKai-01/DSA-and-Competitive-Programming/tree/master/0349-intersection-of-two-arrays) |
 ## Greedy
