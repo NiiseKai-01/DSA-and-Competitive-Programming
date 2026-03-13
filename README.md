@@ -227,6 +227,7 @@ DSA-and-Competitive-Programming/
 | [0014-longest-common-prefix](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0058-length-of-last-word](https://github.com/NiiseKai-01/DSA-and-Competitive-Programming/tree/master/0058-length-of-last-word) |
 | [0171-excel-sheet-column-number](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/0171-excel-sheet-column-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/NiiseKai-01/DSA-and-Competitive-Programing/tree/master/0345-reverse-vowels-of-a-string) |
 ## String Matching
